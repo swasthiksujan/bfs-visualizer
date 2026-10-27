@@ -14,7 +14,6 @@ class BFSLiveDemonstration(CTk):
         self.geometry("700x750")
         self.title("BFS Live Demonstration")
 
-        # Grid Parameters
         self.ROWS = 20
         self.COLUMNS = 20
         self.CELL_SIZE = 30  # unit = pixels
